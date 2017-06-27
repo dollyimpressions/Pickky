@@ -1,0 +1,18 @@
+{
+	"wallpapers": [
+		{
+			"name": "bench",
+			"author": "Pickky",
+			"url": "bench.png",
+			"dimensions": "2000 x 1500",
+			"copyright": ""
+		},
+		{
+			"name": "bulb",
+			"author": "Pickky",
+			"url": "bulb.PNG",
+			"dimensions": "1932 x 1626",
+			"copyright": ""
+		}
+	]
+}
