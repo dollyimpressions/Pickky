@@ -1,139 +1,39 @@
 {
-    "Categories": 
-        [
-            {
-                "name": "Animals"
-            },
-            {
-                "name": "Art"
-            },
-            {
-                "name": "City"
-            },
-            {
-                "name": "Landscape"
-            },
-            {
-                "name": "Sunset"
-            },
-            {
-                "name": "Others"
-            }
-        ],
-    
-	"Wallpapers":
-        [
-			{
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky1.png",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky1.png",
-				"name": "Pickky1",
-                "category": "Animals"	
-			},
-		        {
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky2.PNG",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky2.PNG",
-				"name": "Pickky2",
-                "category": "Animals"	
-			},
-		        {
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky4.PNG",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky4.PNG",
-				"name": "Pickky4",
-                "category": "Animals"	
-			},
-		        {
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky8.PNG",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky8.PNG",
-				"name": "Pickky8",
-                "category": "Animals"	
-			},
-		        {
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky11.png",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky11.png",
-				"name": "Pickky11",
-                "category": "Animals"	
-		         },
-		         {
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky12.png",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky12.png",
-				"name": "Pickky12",
-                "category": "Animals"	
-			  },
-		          {
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky13.PNG",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky13.PNG",
-				"name": "Pickky13",
-                "category": "Animals"	
-			},
-		        {
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky14.png",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky14.png",
-				"name": "Pickky14",
-                "category": "Animals"	
-			},
-		        {
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky15.png",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky15.png",
-				"name": "Pickky15",
-                "category": "Animals"	
-			},
-		        {
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky16.PNG",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky16.PNG",
-				"name": "Pickky16",
-                "category": "Animals"	
-			},
-		        {
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky17.PNG",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky17.PNG",
-				"name": "Pickky17",
-                "category": "Animals"	
-			},
-		        {
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky18.png",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky18.png",
-				"name": "Pickky18",
-                "category": "Animals"	
-			},
-		        {
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky21.png",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky21.png",
-				"name": "Pickky21",
-                "category": "Animals"	
-		         },
-		         {
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky22.png",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky22.png",
-				"name": "Pickky22",
-                "category": "Animals"	
-			  },
-		          {
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky23.png",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky23.png",
-				"name": "Pickky23",
-                "category": "Animals"	
-			},
-		        {
-				"author": "",
-				"url": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky24.PNG",
-				"thumbUrl": "https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky24.PNG",
-				"name": "Pickky24",
-                "category": "Animals"	
-			}
-		]
+    "Collections":[
+        {
+            "name":"Landscapes",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
+        },
+        {
+            "name":"City",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+        }
+    ],
+    "Wallpapers":[
+        {
+            "name":"Wallsplash 1",
+            "author":"wallsplash",
+            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+            "collections":"featured,landscapes,people,city"
+        },
+        {
+            "name":"Wallsplash 2",
+            "author":"wallsplash",
+            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+            "dimensions":"3200x2560",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,landscapes,people,food"
+        },
+        {
+            "name":"Wallsplash 3",
+            "author":"wallsplash",
+            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "copyright":"Free (do whatever you want)",
+            "collections":"featured,food,people"
+        }
+    ]
 }
