@@ -38,27 +38,76 @@
     ],
     "Wallpapers":[
         {
-            "name":"Wallsplash 1",
-            "author":"wallsplash",
-            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.PNG",
-            "thumbnail":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.PNG",
+            "name":"Pickky1",
+            "author":"Pickky1",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky1.png",
+            "collections":"animals"
+        },
+        {
+            "name":"Pickky1a",
+            "author":"Pickky1a",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky1a.JPG",
+            "collections":"animals"
+        },
+        {
+            "name":"Pickky2",
+            "author":"Pickky2",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky2.PNG",
+            "collections":"animals"
+        },
+        {
+            "name":"Pickky2a",
+            "author":"Pickky2a",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky2a.JPG",
+            "collections":"animals"
+        },
+        {
+            "name":"Pickky3",
+            "author":"Pickky3",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky3.jpg",
+            "collections":"animals"
+        },
+        {
+            "name":"Pickky3a",
+            "author":"Pickky3a",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky3a.jpg",
+            "collections":"animals"
+        },
+        {
+            "name":"Pickky4",
+            "author":"Pickky4",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky4.jpg",
+            "collections":"animals"
+        },
+        {
+            "name":"Pickky4a",
+            "author":"Pickky4a",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky4a.jpg",
+            "collections":"animals"
+        },
+        {
+            "name":"Pickky5",
+            "author":"Pickky5",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky5.jpg",
             "collections":"featured,others,sunsets"
         },
         {
-            "name":"Wallsplash 2",
-            "author":"wallsplash",
-            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.PNG",
-            "thumbnail":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.PNG",
-            "dimensions":"3200x2560",
-            "copyright":"Free (do whatever you want)",
-            "collections":"featured,citys,mountains"
+            "name":"Pickky5a",
+            "author":"Pickky5a",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky5a.jpg",
+            "collections":"animals"
         },
         {
-            "name":"Wallsplash 3",
-            "author":"wallsplash",
-            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.PNG",
-            "copyright":"Free (do whatever you want)",
-            "collections":"featured,animals,art,cars"
-        }
+            "name":"Pickky6",
+            "author":"Pickky6",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky6.jpg",
+            "collections":"animals"
+        },
+        {
+            "name":"Pickky7",
+            "author":"Pickky7",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky7.jpg",
+            "collections":"animals"
+        },
     ]
 }
