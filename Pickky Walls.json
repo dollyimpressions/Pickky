@@ -1,37 +1,37 @@
 {
     "Collections":[
         {
-            "name":"Landscapes",
+            "name":"Animals",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
         },
         {
-            "name":"City",
+            "name":"Art",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         },
         {
-            "name":"City",
+            "name":"Cars",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         },
         {
-            "name":"City",
+            "name":"Citys",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         },
         {
-            "name":"City",
+            "name":"Landscape",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         },
         {
-            "name":"City",
+            "name":"Others",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         },
         {
-            "name":"City",
+            "name":"Sunsets",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
         } 
