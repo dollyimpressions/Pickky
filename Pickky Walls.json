@@ -3,62 +3,62 @@
         {
             "name":"Animals",
             "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky18.png",
-            "preview_thumbnail_url":""
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky18.png"
         },
         {
             "name":"Art",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+            "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky40.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky40.png"
         },
         {
             "name":"Cars",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+            "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky18.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky18.png"
         },
         {
             "name":"Citys",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+            "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.PNG",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.PNG"
         },
         {
-            "name":"Landscape",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+            "name":"Mountains",
+            "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky60.PNG",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky60.PNG"
         },
         {
             "name":"Others",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+            "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky82.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky82.png"
         },
         {
             "name":"Sunsets",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
+            "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky66.PNG",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky66.PNG"
         } 
     ],
     "Wallpapers":[
         {
             "name":"Wallsplash 1",
             "author":"wallsplash",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-            "collections":"featured,landscapes,people,city"
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.PNG",
+            "thumbnail":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.PNG",
+            "collections":"featured,others,sunsets"
         },
         {
             "name":"Wallsplash 2",
             "author":"wallsplash",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-            "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.PNG",
+            "thumbnail":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.PNG",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,landscapes,people,food"
+            "collections":"featured,citys,mountains"
         },
         {
             "name":"Wallsplash 3",
             "author":"wallsplash",
-            "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.PNG",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,food,people"
+            "collections":"featured,animals,art,cars"
         }
     ]
 }
