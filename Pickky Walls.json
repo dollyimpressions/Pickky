@@ -12,18 +12,18 @@
         },
         {
             "name":"Cars",
-            "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky18.png",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky18.png"
+            "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky4c.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky4c.jpg"
         },
         {
             "name":"Citys",
-            "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.PNG",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.PNG"
+            "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky48.jpg"
         },
         {
             "name":"Mountains",
-            "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky60.PNG",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky60.PNG"
+            "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky60.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky60.jpg"
         },
         {
             "name":"Others",
@@ -65,7 +65,7 @@
             "name":"Pickky3",
             "author":"Pickky3",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky3.jpg",
-            "collections":"animals"
+            "collections":"featured,animals"
         },
         {
             "name":"Pickky3a",
@@ -83,19 +83,19 @@
             "name":"Pickky4a",
             "author":"Pickky4a",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky4a.jpg",
-            "collections":"animals"
+            "collections":"animals,art"
         },
         {
             "name":"Pickky5",
             "author":"Pickky5",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky5.jpg",
-            "collections":"featured,others,sunsets"
+            "collections":"animals"
         },
         {
             "name":"Pickky5a",
             "author":"Pickky5a",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky5a.jpg",
-            "collections":"animals"
+            "collections":"animals,art"
         },
         {
             "name":"Pickky6",
@@ -161,19 +161,19 @@
             "name":"Pickky16",
             "author":"Pickky16",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky16.PNG",
-            "collections":"featured,others,sunsets"
+            "collections":"animals"
         },
         {
             "name":"Pickky17",
             "author":"Pickky17",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky17.PNG",
-            "collections":"animals"
+            "collections":"animals,art"
         },
         {
             "name":"Pickky18",
             "author":"Pickky18",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky18.png",
-            "collections":"animals"
+            "collections":"animals,art"
         },
         {
             "name":"Pickky19",
@@ -275,7 +275,7 @@
             "name":"Pickky35",
             "author":"Pickky35",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky35.JPG",
-            "collections":"featured,animals,art,cars,citys,mountains,others,sunsets"
+            "collections":"art"
         },
         {
             "name":"Pickky37",
@@ -287,7 +287,7 @@
             "name":"Pickky38",
             "author":"Pickky38",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky38.png",
-            "collections":"art"
+            "collections":"featured,art"
         },
         {
             "name":"Pickky39",
@@ -383,7 +383,7 @@
             "name":"Pickky12c",
             "author":"Pickky12c",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky12c.PNG",
-            "collections":"cars"
+            "collections":"featured,cars"
         },
         {
             "name":"Pickky43",
@@ -431,7 +431,7 @@
             "name":"Pickky50",
             "author":"Pickky50",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky50.jpg",
-            "collections":"citys"
+            "collections":"featured,citys"
         },
         {
             "name":"Pickky51",
@@ -445,5 +445,77 @@
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky52.PNG",
             "collections":"citys"
         },
+        {
+            "name":"Pickky53",
+            "author":"Pickky53",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky53.png",
+            "collections":"art,mountains"
+        },
+        {
+            "name":"Pickky54",
+            "author":"Pickky54",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky54.JPG",
+            "collections":"art,mountains"
+        },
+        {
+            "name":"Pickky55",
+            "author":"Pickky55",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky55.jpg",
+            "collections":"mountains"
+        },
+        {
+            "name":"Pickky56",
+            "author":"Pickky56",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky56.jpg",
+            "collections":"featured,mountains"
+        },
+        {
+            "name":"Pickky57",
+            "author":"Pickky57",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky57.jpg",
+            "collections":"featured,mountains"
+        },
+        {
+            "name":"Pickky58",
+            "author":"Pickky58",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky58.jpg",
+            "collections":"mountains"
+        },
+        {
+            "name":"Pickky59",
+            "author":"Pickky59",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky59.jpg",
+            "collections":"mountains"
+        },
+        {
+            "name":"Pickky60",
+            "author":"Pickky60",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky60.jpg",
+            "collections":"featured,mountains"
+        },
+        {
+            "name":"Pickky61",
+            "author":"Pickky61",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky61.PNG",
+            "collections":"mountains"
+        },
+        {
+            "name":"Pickky62",
+            "author":"Pickky62",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky62.JPG",
+            "collections":"mountains"
+        },
+        {
+            "name":"Pickky63",
+            "author":"Pickky63",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky63.jpg",
+            "collections":"mountains"
+        },
+        {
+            "name":"Pickky64",
+            "author":"Pickky64",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky64.PNG",
+            "collections":"mountains"
+        }
     ]
 }
