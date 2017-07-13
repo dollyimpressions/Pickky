@@ -245,7 +245,7 @@
             "name":"Pickky30",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky30.JPG",
-            "collections":"art"
+            "collections":"featured,art"
         },
         {
             "name":"Pickky31",
@@ -257,7 +257,7 @@
             "name":"Pickky32",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky32.png",
-            "collections":"art"
+            "collections":"featured,art"
         },
         {
             "name":"Pickky33",
@@ -287,7 +287,7 @@
             "name":"Pickky38",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky38.png",
-            "collections":"featured,art"
+            "collections":"art"
         },
         {
             "name":"Pickky39",
@@ -431,7 +431,7 @@
             "name":"Pickky50",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky50.jpg",
-            "collections":"citys"
+            "collections":"featured,citys"
         },
         {
             "name":"Pickky51",
