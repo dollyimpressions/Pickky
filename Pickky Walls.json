@@ -3,7 +3,7 @@
         {
             "name":"Animals",
             "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky18.jpg",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky18.png"
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky18.jpg"
         },
         {
             "name":"Art",
@@ -83,7 +83,7 @@
             "name":"Pickky4a",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky4a.jpg",
-            "collections":"animals,art"
+            "collections":"featured,animals,art"
         },
         {
             "name":"Pickky5",
@@ -383,7 +383,7 @@
             "name":"Pickky12c",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky12c.PNG",
-            "collections":"featured,cars"
+            "collections":"cars"
         },
         {
             "name":"Pickky43",
@@ -431,7 +431,7 @@
             "name":"Pickky50",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky50.jpg",
-            "collections":"featured,citys"
+            "collections":"citys"
         },
         {
             "name":"Pickky51",
@@ -467,13 +467,13 @@
             "name":"Pickky56",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky56.jpg",
-            "collections":"featured,mountains"
+            "collections":"mountains"
         },
         {
             "name":"Pickky57",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky57.jpg",
-            "collections":"featured,mountains"
+            "collections":"mountains"
         },
         {
             "name":"Pickky58",
@@ -557,7 +557,7 @@
             "name":"Pickky71",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky71.PNG",
-            "collections":"featured,art,sunsets"
+            "collections":"sunsets"
         },
         {
             "name":"Pickky72",
@@ -635,7 +635,7 @@
             "name":"Pickky84",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky84.jpg",
-            "collections":"others"
+            "collections":"featured,others"
         }
     ]
 }
