@@ -27,8 +27,8 @@
         },
         {
             "name":"Others",
-            "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky82.png",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky82.png"
+            "preview_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky84.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky84.jpg"
         },
         {
             "name":"Sunsets",
@@ -65,7 +65,7 @@
             "name":"Pickky3",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky3.jpg",
-            "collections":"featured,animals"
+            "collections":"animals"
         },
         {
             "name":"Pickky3a",
@@ -491,7 +491,7 @@
             "name":"Pickky60",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky60.jpg",
-            "collections":"featured,mountains"
+            "collections":"mountains"
         },
         {
             "name":"Pickky61",
@@ -533,7 +533,7 @@
             "name":"Pickky67",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky67.PNG",
-            "collections":"featured,sunsets"
+            "collections":"sunsets"
         },
         {
             "name":"Pickky68",
