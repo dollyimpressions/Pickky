@@ -636,6 +636,12 @@
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky84.jpg",
             "collections":"featured,others"
-        }
+        },
+        {
+            "name":"Pickky85",
+            "author":"Pickky",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky85.png",
+            "collections":"featured,others"
+       }
     ]
 }
