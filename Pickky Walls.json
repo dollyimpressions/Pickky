@@ -137,7 +137,7 @@
             "name":"Pickky12",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky12.png",
-            "collections":"animals"
+            "collections":"featured,animals"
         },
         {
             "name":"Pickky13",
@@ -263,7 +263,7 @@
             "name":"Pickky33",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky33.png",
-            "collections":"art"
+            "collections":"featured,art"
         },
         {
             "name":"Pickky34",
