@@ -392,6 +392,24 @@
             "collections":"cars"
         },
         {
+            "name":"Pickky1d",
+            "author":"Pickky",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky1d.jpg",
+            "collections":"citys"
+        },
+        {
+            "name":"Pickky2d",
+            "author":"Pickky",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky2d.jpg",
+            "collections":"citys"
+        },
+        {
+            "name":"Pickky3d",
+            "author":"Pickky",
+            "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky3d.jpg",
+            "collections":"citys"
+        },
+        {
             "name":"Pickky43",
             "author":"Pickky",
             "url":"https://raw.githubusercontent.com/dollyimpressions/Pickky/master/Pickky43.jpg",
